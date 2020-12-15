@@ -1,2 +1,2 @@
 # markSix
- This is the sixth project  based on minions app
+ This is minion translation app wherein language entered in English is converted to minions language. 
